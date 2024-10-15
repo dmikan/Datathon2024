@@ -1,0 +1,1 @@
+Todos los tablones resultado de sacar medias de las variables por lotes. Cada fichero csv en esta carpeta debe tener como máximo 208 registros para poder hacer el cruce final con la tabla principal OF_CF_CFT_P_I.
